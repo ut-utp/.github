@@ -9,7 +9,7 @@ assignees: rrbutani
 
 ### what
 
-[[ What is this feature about. ]]
+[[ What is this feature about? ]]
 
 ### steps
  - [ ] [[ steps ]]
