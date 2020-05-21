@@ -2,18 +2,19 @@
 name: Bug
 about: Fixing unintended behavior or inaccurate documentation.
 title: ''
-labels: "🐛 bug"
+labels: "\U0001F41B bug"
 assignees: ''
 
 ---
 
 ### what
-**[existing feature/documentation]** is supposed to **[intended behavior/message]** but instead it **[unintended behavior/message]**.
+[[ what's broken? ]]
 
-### steps
- - [ ] things
+**[existing feature/documentation]** is supposed to **[intended behaviour/message]** but instead it **[unintended behaviour/message]**.
 
-### where
-branch: ``
+### steps to reproduce
+ - steps
 
-### open questions
+### environment information
+  - rustc/cargo version: 
+  - OS:
