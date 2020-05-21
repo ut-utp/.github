@@ -1,8 +1,8 @@
 ---
-name: Subtask
-about: Describe this issue template's purpose here.
+name: Feature
+about: Adding new functionality.
 title: ''
-labels: "⚙️ subtask"
+labels: "✨ feature"
 assignees: ''
 
 ---
