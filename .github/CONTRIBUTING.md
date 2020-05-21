@@ -9,10 +9,11 @@ This is very optional, but we (mostly) start our commit messages with a tag indi
 This makes it easier to tell what parts of the project end up getting worked on more. There isn't a formal list of tags that are used in a repo, and it's all very ad-hoc (though, at least for [core](https://github.com/ut-utp/core) they mostly match the crates).
 
 Actually using the tags isn't required but is encouraged. Feel free to introduce new tags when appropriate.
-Here's a one-liner to see what tags are used:
-    ```bash
-    alias git-log-stat='git log --oneline | cut -d ' ' -f2- | grep '^[^ ]*:.*$' | cut -d ':' -f 1 | sort | uniq -c | sort -hr'
-    ```
+
+Here's a one-liner to see what tags are used in a repo:
+```bash
+alias git-log-stat='git log --oneline | cut -d ' ' -f2- | grep '^[^ ]*:.*$' | cut -d ':' -f 1 | sort | uniq -c | sort -hr'
+```
 
 ### Formatting
 
