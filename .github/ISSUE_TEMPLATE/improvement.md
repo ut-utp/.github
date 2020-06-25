@@ -27,8 +27,8 @@ branch: `imp-`
 [[
 This should be:
  - N/A if this improvement is not currently being worked on
- - [`imp-<improvement-name>`](tree/imp-improvement-name) if this is being worked on in _this repo_
- - [`org/repo#<branch-name>`](https://github.com/org/repo/tree/branch-name) if this is being worked on in _another repo_
+ - [`imp-<improvement-name>`](//github.com/ut-utp/<repo>/tree/imp-improvement-name) if this is being worked on in _this repo_
+ - [`org/repo#<branch-name>`](//github.com/org/repo/tree/branch-name) if this is being worked on in _another repo_
 ]]
 
 [[

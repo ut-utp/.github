@@ -22,8 +22,8 @@ branch: `feat-`
 [[
 This should be:
  - N/A if this feature is not currently being worked on
- - [`feat-<feature-name>`](tree/feat-feature-name) if this is being worked on in _this repo_
- - [`org/repo#<branch-name>`](https://github.com/org/repo/tree/branch-name) if this is being worked on in _another repo_
+ - [`feat-<feature-name>`](//github.com/ut-utp/<repo>/tree/feat-feature-name) if this is being worked on in _this repo_
+ - [`org/repo#<branch-name>`](//github.com/org/repo/tree/branch-name) if this is being worked on in _another repo_
 ]]
 
 ### open questions
